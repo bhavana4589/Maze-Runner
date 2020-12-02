@@ -10,6 +10,6 @@ NOTE:As we used conio.h header file,this code cannot be executed in linux.
 3. When the ball strikes the walls of the maze,it gives a warning saying “Invalid Input”.
 
 4. When the ball reaches the exit, the number of stars are displayed based on no.of moves.i.e. the range of moves for the stars to be awarded is defined . 
-# Lesser the number of moves,higher is the number of stars.
+<b>Lesser the number of moves,higher is the number of stars.</b>
 
 5.You can exit the game anytime by just pressing escape.
